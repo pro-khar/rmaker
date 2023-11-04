@@ -1,4 +1,3 @@
-
 var experience = {
     company_name,
     designation,
