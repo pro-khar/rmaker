@@ -1,0 +1,23 @@
+html{
+    font-family: 'Fira sans', sans-serif;
+}
+table{
+    width: 100%;
+    padding: 40px;
+    background-color: beige;
+}
+h1{
+    margin-bottom: 10px;
+}
+h2{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ul{
+    margin-top: 0;
+}
+
+#container{
+    padding: 50px;
+}
